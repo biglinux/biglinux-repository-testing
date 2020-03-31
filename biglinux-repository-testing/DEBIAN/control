@@ -1,0 +1,9 @@
+Package: biglinux-repository-testing
+Version: 2020.03-1focal1
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Installed-Size:16
+Section: admin
+Priority: optional
+Description: BigLinux TESTING repository and key
+
